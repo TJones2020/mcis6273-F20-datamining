@@ -1,1 +1,1 @@
-# mcis6273-F20Fdatamining
+This is the first readme/commit of this repo.
